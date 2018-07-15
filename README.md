@@ -4,8 +4,8 @@ This program is for learning and understanding vulnarability assesment scanners 
 Goal for this portion:
 - to log running processes in an outfile with runtime, description of process, and 
 in broad terms safe or unsafe.
--record activity of each program 
--give percent amount on how "vulnerable" system is
+- record activity of each program 
+- give percent amount on how "vulnerable" system is
 
 all this to be recorded in personal log.txt files 
 
