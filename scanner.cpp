@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     ofstream outfile;
     outfile.open("default_out");
     //need array to store processes
-    call.counter(0, name);
+    call.counter(0, "name");
 
 return EXIT_SUCCESS;
 }
